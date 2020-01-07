@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background_hills.png</file>
+        <file>images/dirtBlock.jpg</file>
+        <file>images/stoneBlock.jpg</file>
+        <file>images/player_walkLeft1.png</file>
+        <file>images/player_walkLeft2.png</file>
+        <file>images/player_walkRight1.png</file>
+        <file>images/player_walkRight2.png</file>
+        <file>images/player_idleLeft.png</file>
+        <file>images/player_idleRight.png</file>
+        <file>images/zombie_idleLeft.png</file>
+        <file>images/zombie_idleRight.png</file>
+        <file>images/zombie_walkLeft1.png</file>
+        <file>images/zombie_walkLeft2.png</file>
+        <file>images/zombie_walkRight1.png</file>
+        <file>images/zombie_walkRight2.png</file>
+        <file>images/player_punchLeft.png</file>
+        <file>images/player_punchRight.png</file>
+    </qresource>
+</RCC>
